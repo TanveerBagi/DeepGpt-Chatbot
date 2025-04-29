@@ -3,14 +3,14 @@ A fun and interactive chatbot built with Streamlit and powered by DeepSeek LLM v
 
 **🚀 Features**
 - 🎭 Multiple Personalities:
-         Professional Assistant
-         Casual Friend
-         Sarcastic Bot
-         Tech Expert
-         Storyteller
-         Old Wise Sage
-         Pirate Mode
-         Evil Villain
+        - Professional Assistant
+        - Casual Friend
+        - Sarcastic Bot
+        - Tech Expert
+        - Storyteller
+        - Old Wise Sage
+        - Pirate Mode
+        - Evil Villain
 
 - 🔁 Real-time streaming chat
 
@@ -20,13 +20,13 @@ A fun and interactive chatbot built with Streamlit and powered by DeepSeek LLM v
 
 **📸 Demo**
 Want to Try It?
-Try the Chatbot here :- 
+Try the Chatbot here :- https://deepgpt-chatbot-xpuuaydapkwgrxa6teaczy.streamlit.app/
 
 **🌐 Tech Stack**
--Python
--Streamlit
--OpenAI Python SDK
--OpenRouter API (DeepSeek model)
+- Python
+- Streamlit
+- OpenAI Python SDK
+- OpenRouter API (DeepSeek model)
 
 **🔐 API Setup**
 This app uses the OpenRouter API to access DeepSeek models.
