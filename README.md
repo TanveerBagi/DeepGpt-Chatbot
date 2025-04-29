@@ -28,6 +28,17 @@ Try the Chatbot here :- https://deepgpt-chatbot-xpuuaydapkwgrxa6teaczy.streamlit
 - OpenAI Python SDK
 - OpenRouter API (DeepSeek model)
 
+**Steps to setup and run the  Run the Project**
+# Clone the repository
+git clone https://github.com/TanveerBagi/DeepGpt-Chatbot.git
+cd DeepGpt-Chatbot
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Project with this command
+streamlit run main.py
+
 **🔐 API Setup**
 This app uses the OpenRouter API to access DeepSeek models.
 To run this project, you'll need to get your OpenRouter API key.
