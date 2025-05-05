@@ -47,7 +47,7 @@ text = st.text_input(('Type here:'))
 
 client = OpenAI(
   base_url="https://openrouter.ai/api/v1",
-  api_key=st.secrets["API_KEY"], # Instead of st.secrets["API_KEY"] , add the api key as "your api key" . Don't forget the inverted commas.
+  api_key=st.secrets["API_KEY"], # Instead of st.secrets["API_KEY"] add the api key as "your api key" . Don't forget the inverted commas.
 )
 response_text = ""
 output_text = st.empty()
